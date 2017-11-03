@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 class Pokemon
     
     attr_accessor :poke_name, :poke_hp, :poke_attack
